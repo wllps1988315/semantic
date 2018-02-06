@@ -1,3 +1,4 @@
+原文链接:http://blog.csdn.net/Flying_Colors/article/details/605548
 基于组块的自然语言理解解决方案
 
 问题背景：
